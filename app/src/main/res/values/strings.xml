@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProfileScreen</string>
+    <string name="steve_rogers">Steve Rogers</string>
+    <string name="actor">Actor</string>
+    <string name="film_and_cinema">Film, cinema</string>
+    <string name="born">Boston, USA</string>
+    <string name="ten">10.0</string>
+    <string name="rating">Rating</string>
+    <string name="hundred">100</string>
+    <string name="projects">Projects</string>
+    <string name="view_portfolio">View Portfolio</string>
+    <string name="contact">Contact</string>
+</resources>
